@@ -1,0 +1,14 @@
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\data\AbstractData.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\impl\TimeRepositoryImpl.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\AppointmentRepository.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\data\Appointment.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\impl\PatientRepositoryImpl.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\PatientRepository.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\data\Doctor.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\DoctorRepository.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\data\Time.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\impl\AppointmentRepositoryImpl.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\TimeRepository.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\AbstractRepository.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\repository\impl\DoctorRepositoryImpl.java
+D:\Java projects\NIX\Homework3\hospital_data\src\main\java\nix\data\Patient.java
